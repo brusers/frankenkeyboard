@@ -1,4 +1,4 @@
-If my memory serves me correctly, these are the only two files I have modified from the LUFA library. 
+If my memory serves me correctly, these are the only two files I am modifying. 
 
 - KeyboardMouse.c
 - key_codes.h (not originally from LUFA)
