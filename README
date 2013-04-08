@@ -1,0 +1,3 @@
+If my memory serves me correctly, these are the only two files I have modified from the LUFA library. The following is the project that I used from what is supplied with LUFA.
+
+LUFA-130303/Demos/Device/ClassDriver/KeyboardMouse
